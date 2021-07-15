@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T17:05:15.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.203" etag="UT5oP_T38POOGQ4seMu_" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T17:09:24.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.203" etag="P87EGKzzH1WuNYhZcDdR" version="14.8.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1382" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -33,6 +33,9 @@
             <mxPoint x="315" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9XVyaEB-Nx_Zjfo7yINc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9XVyaEB-Nx_Zjfo7yINc-8" target="9XVyaEB-Nx_Zjfo7yINc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9XVyaEB-Nx_Zjfo7yINc-8" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;делитель i&amp;lt;=n&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="130" y="350" width="370" height="80" as="geometry" />
         </mxCell>
@@ -54,8 +57,22 @@
             <mxPoint x="710" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9XVyaEB-Nx_Zjfo7yINc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.535;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9XVyaEB-Nx_Zjfo7yINc-13" target="9XVyaEB-Nx_Zjfo7yINc-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9XVyaEB-Nx_Zjfo7yINc-13" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;остаток &lt;br&gt;от деления n на i равен&lt;br&gt;нулю?&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="450" width="521" height="160" as="geometry" />
+          <mxGeometry x="110" y="460" width="521" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9XVyaEB-Nx_Zjfo7yINc-16" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;n - непростое число&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XVyaEB-Nx_Zjfo7yINc-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9XVyaEB-Nx_Zjfo7yINc-18" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;n-простое число&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="680" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
