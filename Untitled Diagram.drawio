@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T10:58:56.845Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.254" etag="nC23dyKHWSEqhuQSUZgu" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T11:04:41.893Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.254" etag="88VipSNXUmSmu8hJfdh1" version="14.9.2" type="github">
   <diagram id="jz84Vvqjcb3qABP4qZ7d" name="Page-1">
     <mxGraphModel dx="782" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
             <mxPoint x="382" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaBQhX0LWxd9E4BDWXPx-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Для каждого элемента в полследовательности вызвать функцию&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="BaBQhX0LWxd9E4BDWXPx-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Для каждого элемента в последовательности вызвать функцию&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCFCFC;" vertex="1" parent="1">
           <mxGeometry x="269" y="340" width="226" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BaBQhX0LWxd9E4BDWXPx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BaBQhX0LWxd9E4BDWXPx-15">
